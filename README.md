@@ -13,6 +13,6 @@ Un visuel du dispositif terminé est disponible ici : https://youtu.be/4wBnja9f7
 
 # Architecture
 
-Le dispositif contient une rasperry pi qui execute le code en python qui communique via un protocole série avec 2 arduino méga. Celle-ci adresse ensuite tous les capteurs et remontent les informations à la raspberry pi.
+Le dispositif contient une raspperry pi qui execute le code en python qui communique via un protocole série avec 2 arduino méga. Celle-ci adresse ensuite tous les capteurs et remontent les informations à la raspberry pi.
 
-Le code PythonCode est à déposer sur la rasberry, le arduino code est à compiler puis injecter sur les arduinos mégas
+Le code PythonCode est à déposer sur la raspberry, le arduino code est à compiler puis injecter sur les arduinos mégas
